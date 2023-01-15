@@ -1,3 +1,4 @@
+![alt text for screen readers](/SA.png "Steganography project logo")
 # Steganography for image and video
 This is a part of a University project on FEKT University of technology in Brno.
 
